@@ -1,11 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+-- this is to help me know more about web sockets and backend authentications , i wrote middlewares from scratch and also learn about reusability of code.
 
 Highlights:
-
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 Authentication && Authorization with JWT
 - 👾 Real-time messaging with Socket.io
